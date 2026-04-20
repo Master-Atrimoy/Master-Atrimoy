@@ -1,7 +1,53 @@
-- 👋 Hi, I’m @Master-Atrimoy
-- 👨‍🎓 I'm currently employed at TCS as a Generative AI developer. 
-- My day-to-day activities at work include building and managing an AI application from scratch with Python, Langchain, Langgraph, FastAPI, Databricks and Microservices.   
-- 👀 I’m keenly interested in Data Science, Machine Learning, AI, and AI Agents-related work.
+# 👋 Hi, I’m @Master-Atrimoy
+#### 👨‍🎓 I'm currently employed at TCS as a Generative AI developer.
+---
+I build Generative AI systems that work outside the comfort zone of demos —  
+where inputs are messy, users are unpredictable, and “it worked once” is not good enough.
+
+---
+
+## What I actually do (when things inevitably break)
+
+- Convince LLMs to follow **structure and constraints** (politely… at first) 🧠  
+- Build **agentic workflows** that decide, not just respond ⚙️  
+- Design **RAG systems** over data that clearly never wanted to be used 📂  
+- Turn unstructured chaos into **validated, usable outputs** 🔍  
+
+---
+
+## Where the real fun begins
+
+- edge cases that show up only in production  
+- outputs that look correct but aren’t  
+- prompts that worked yesterday and betray you today  
+- data that refuses to be clean  
+
+## Stack (the usual suspects)
+
+Python • FastAPI • LangGraph • LangChain • Azure Databricks • Pydantic • MLflow • Vector Search  
+
+---
+
+## Bias (yes, I have opinions)
+
+- systems > demos  
+- structure > prompts  
+- real inputs > curated ones  
+
+---
+
+## Reality check
+
+LLMs are probabilistic ⚠️  
+Users are creative in the worst ways  
+Data is… optimistic at best  
+
+That’s the job. I enjoy it.
+
+---
+
+## Links
+
 - 📫 How to reach me : Here is my LinkedIn Profile link : https://www.linkedin.com/in/atrimay-saha-98265b1b6/
 
 <!---
